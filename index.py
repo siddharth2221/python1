@@ -1,5 +1,5 @@
 # Pyramid Pattern
-n = 6
+n = 10
 for i in range(1, n+1):
     # Print spaces
     print(' ' * (n - i), end='')
